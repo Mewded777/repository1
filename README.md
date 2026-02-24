@@ -1,0 +1,1 @@
+This is a flask app combined with html and css and its purpose is it asks for two files of type .txt , .docx, .pdf and it checks for plagiarism and gives comments based on the percentage of similarities
