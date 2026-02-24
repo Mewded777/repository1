@@ -1,0 +1,38 @@
+
+.form-container
+{
+  max-width: 400px;
+  margin: 60px auto;
+  background: rgb(19, 184, 184);
+  padding: 25px;
+  border-radius: 12px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+.background
+{
+  max-width: 400px;
+  margin: 60px auto;
+  background: rgb(129, 248, 248);
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+.display
+{
+  max-width: 400px;
+  margin: 60px auto;
+  background: rgb(129, 248, 248);
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  margin-bottom: 20px;
+  color: #000000;
+}
