@@ -10,6 +10,7 @@ def level():
            else:
               print("Please choose a valid level")
         except ValueError:
+            print("Please choose a valid level")
             continue
 
     return lev
@@ -130,3 +131,4 @@ if __name__ == "__main__":
 
 
         
+
