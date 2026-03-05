@@ -66,7 +66,7 @@ def main():
                print("Wrong answer!")
                print(f"The correct answer is {result}")
         # After answering the 10 questions the score is displayed
-        print(f"Score:{score}")
+        print(f"Score:{score}/10")
 
       case '-':
         for _ in range(10):
@@ -84,7 +84,7 @@ def main():
                print("Wrong answer!")
                print(f"The correct answer is {result}")
 
-        print(f"Score:{score}")
+        print(f"Score:{score}/10")
       
       case '*':
         for _ in range(10):
@@ -102,7 +102,7 @@ def main():
                print("Wrong answer!")
                print(f"The correct answer is {result}")
 
-        print(f"Score:{score}")
+        print(f"Score:{score}/10")
     
       case '/':
         # Instruction is given to the user incase division is chosen as an operator
@@ -123,7 +123,7 @@ def main():
                print("Wrong answer!")
                print(f"The correct answer is {result}")
 
-        print(f"Score:{score}")
+        print(f"Score:{score}/10")
    
 if __name__ == "__main__":
     main()
@@ -131,4 +131,5 @@ if __name__ == "__main__":
 
 
         
+
 
